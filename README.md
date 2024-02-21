@@ -8,4 +8,6 @@ Este repositório serve como uma documentação dos meus exercícios em Python. 
 
 Novos exercícios podem ser adicionados no futuro✨
 
-*Observação: Os exercícios aqui não representam toda a extensão das minhas habilidades de programação.* 💡
+*Observação: Os exercícios aqui não representam toda a extensão das minhas habilidades de programação.Você pode ver meus outros projetos e exercícios em diferentes linguagens de programação [aqui](https://github.com/ramon-rodrigues3?tab=repositories).* 🔍
+
+
